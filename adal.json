@@ -1,0 +1,11 @@
+{
+  "tenant": "eappiotsens.onmicrosoft.com",
+  "tenantId": "9ce64ad3-38fa-4899-8a4f-440edd76bf66",
+  "authorityHostUrl": "https:\/\/login.microsoftonline.com",
+  "clientId": "7dd1cd54-b472-4bcf-84e8-b2995a9d2628",
+  "clientSecret": "qgE4+56IWV7Njq0J0uCgwYG8q9U9aRWIELgNZz4C44Q=",
+  "webApiResourceId": "qgE4+56IWV7Njq0J0uCgwYG8q9U9aRWIELgNZz4C44Q=",
+  "username": "andrej.grguric@eappiotsens.onmicrosoft.com",
+  "password": "pass4AppIoT",
+  "deviceNetworkId": "501a86f6-c3da-4b27-ab3d-2fb5e7963a7e"
+}
